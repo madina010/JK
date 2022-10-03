@@ -1,0 +1,89 @@
+body {
+    background: linear-gradient(to top, #ec98cd 20%, #c01665);
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+    width: 500px;
+    background: linear-gradient(to top, #e52ea2 30%, #4d0225);
+    min-height: 1300px;
+}
+.logo1 img {
+    width: 300px;
+    margin-left: 95px;
+    border-radius: 180px;
+}
+.name {
+    margin-left: 95px;
+    color: rgb(0, 0, 0);
+}
+.op 
+{
+    margin-left: 95px;
+    margin-top: 70px;
+}
+.op h7 {
+    font-size: 2em;
+    font-weight: bold;
+}
+.info {
+    margin-left: 26px;
+    color: rgb(0, 0, 0);
+}
+.info h2 {
+    background-color: #98074b;
+    font-size: 1.5em;
+}
+.info h3 {
+    background-color: #98074b;
+    font-size: 1.5em;
+}
+.info h4 {
+    background-color: #98074b;
+    font-size: 1.5em;
+}
+.info h5 {
+    background-color: #98074b;
+    font-size: 1.5em;
+}
+.info h6 {
+    background-color: #98074b;
+    font-size: 1.5em;
+}
+.visual img {
+    margin-top: 60px;
+    border-radius:50px;
+    box-shadow: 0 0 7px #4d0225;
+    margin-left: 25px;
+}
+.visual1 img {
+    margin-top: 150px;
+    border-radius: 50px;
+    box-shadow:  0 0 7px #4d0225;
+    margin-left: 25px;
+}
+.visual2 img {
+    margin-top: 140px;
+    border-radius: 50px;
+    box-shadow:  0 0 7px #4d0225;
+}
+.yg {
+    display: flex;
+    margin-top: 300px;
+}
+.face img {
+    width: 100px;
+    border-radius: 35px;
+    margin-left: 50px;
+}
+.logoyg img {
+    width: 100px;
+    border-radius: 35px;
+    margin-left: 50px;
+}
+.logoBP img {
+    width: 100px;
+    border-radius: 35px;
+    margin-left: 50px;
+    margin-top: 25px
+}
